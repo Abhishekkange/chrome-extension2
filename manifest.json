@@ -1,4 +1,4 @@
-{"manifest_version":3.0,
+{"manifest_version":3,
 "name":"DailyLogger",
 "description":"This is DailyLogger which will track all your chrome activities and generate a daily report on where are you exactly spending how much time !",
 "version":1.0,
