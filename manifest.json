@@ -1,8 +1,8 @@
 {"manifest_version":3,
 "name":"DailyLogger",
 "description":"This is DailyLogger which will track all your chrome activities and generate a daily report on where are you exactly spending how much time !",
-"version":1,
-"actions":{
+"version":"1",
+"action":{
     "default_popup":"popups/default_popup.html"
 
 },
